@@ -1,4 +1,4 @@
-AurumWayCoin ARC  integration/staging tree
+AurumWayCoin AURC  integration/staging tree
 ================================
 
 http://www.aurumway.com
@@ -6,7 +6,7 @@ http://www.aurumway.com
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 AurumWayCoin ARC  Developers
 
-What is AurumWayCoin ARC ?
+What is AurumWayCoin AURC ?
 ----------------
 
 AurumWayCoin ARC  is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
